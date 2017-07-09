@@ -1,13 +1,6 @@
  
  [Ask Question](https://stackoverflow.com/questions/ask)
 
- ![](https://engine.adzerk.net/i.gif?e=eyJhdiI6NDgxLCJhdCI6NCwiYnQiOjAsImNtIjo2MDA1MDksImNoIjoxMTc4LCJjayI6e30sImNyIjozNDgxMTQxLCJkaSI6Ijk1ZTZlYzk0ZjM4MDRiYWRiZjU4ODc1NjAzNTI2YTc2IiwiZG0iOjEsImZjIjo2MDY4OTc4LCJmbCI6NjE4NDY4MywiaXAiOiI0OS42Ni40Mi4xNDgiLCJrdyI6ImdpdCIsIm53IjoyMiwicGMiOjUuMjYsImVjIjo1LjI2LCJwciI6OTU2MDQsInJ0IjoyLCJyZiI6Imh0dHBzOi8vd3d3LnYyZXguY29tL3QvMjM4OTYxIiwic2EiOiIzIiwic2IiOiJpLTBhZGViNTRiMmY4NmMwMzExIiwic3AiOjMwNTczLCJzdCI6ODI3NywidWsiOiJ1ZTEtMzVhODQyMTZiMzJmNDg4Nzk2MjdmODhhODgwMGY2M2MiLCJ6biI6NDMsInRzIjoxNDk5NTM1NjcxNTgwLCJiZiI6dHJ1ZSwicG4iOiJhZHplcmsyMDg3Mzc0Nzc0IiwiYmEiOjMsImZxIjowfQ&s=sCBDV09OwE2-jqQbdYuOcmEUxW8)
-
-| 
- <a class="vote-up-off" title="This question shows research effort; it is useful and clear">up vote</a>90<a class="vote-down-off" title="This question does not show any research effort; it is unclear or not useful">down vote</a>[favorite](https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one)
- **46**
-
- | 
 
 Is there any way to use these three commands in one?
 
@@ -17,12 +10,6 @@ git push</code>
 
 Sometimes I'm changing only one letter, CSS padding or something. Still, I have to write all three commands to push the changes. There are many projects where I'm only one pusher, so this command would be awesome!
 
- [git](https://stackoverflow.com/questions/tagged/git)
-
-| 
- [share](https://stackoverflow.com/q/19595067 "short permalink to this question")[improve this question](https://stackoverflow.com/posts/19595067/edit)
-
- | 
 
  [edited May 22 '14 at 6:41](https://stackoverflow.com/posts/19595067/revisions "show all edits to this post")
 
@@ -40,32 +27,13 @@ Sometimes I'm changing only one letter, CSS padding or something. Still, I have 
  [Gediminas](https://stackoverflow.com/users/1412149/gediminas)
  1,75841830
 
- |
 
- |
-|   | 
-
-| 
-
-| 7 |   |
-
- | 
  Have you tried writing a shell script? – [Paul](https://stackoverflow.com/users/103081/paul "13,048 reputation") [Oct 25 '13 at 16:34](https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one#comment29083965_19595067)
 
- |
-| 
 
-| 9 |   |
-
- | 
  You don't need a commit message? [No](http://i.imgur.com/a9IAGPv.jpg). Also, `-a` means `add .`, so there's one down. – [Wayne Werner](https://stackoverflow.com/users/344286/wayne-werner "22,276 reputation")[Oct 25 '13 at 16:35](https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one#comment29084009_19595067)
 
- |
-| 
 
-| 1 |   |
-
- | 
  [stackoverflow.com/questions/7852148/…](http://stackoverflow.com/questions/7852148/function-in-bash-to-commit-and-push-in-one-command "function in bash to commit and push in one command") – [CodeGroover](https://stackoverflow.com/users/324098/codegroover "1,786 reputation") [Oct 25 '13 at 16:38](https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one#comment29084088_19595067)
 
  |
