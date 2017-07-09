@@ -12,7 +12,9 @@
 var gulp = require('gulp')
 
 //获取gulp-less模块
+```
 var less = require("gulp-less")
+```
 
 //编译less
 //在命令行输入gulp less启动此任务
